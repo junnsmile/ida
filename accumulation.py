@@ -111,7 +111,6 @@ def elshu(omg0, g0, miu0, fo,tao0):
 if __name__ == '__main__':
 
 ###########累加法######
-# 层数
     number =10
     omg1 = 0.9
     omg2 = 0.9
